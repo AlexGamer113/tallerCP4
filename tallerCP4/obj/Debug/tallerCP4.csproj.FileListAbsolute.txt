@@ -1,0 +1,11 @@
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\bin\Debug\tallerCP4.exe.config
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\bin\Debug\tallerCP4.exe
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\bin\Debug\tallerCP4.pdb
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\obj\Debug\tallerCP4.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\obj\Debug\tallerCP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\obj\Debug\tallerCP4.Properties.Resources.resources
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\obj\Debug\tallerCP4.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\obj\Debug\tallerCP4.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\obj\Debug\tallerCP4.exe
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\obj\Debug\tallerCP4.pdb
+C:\Users\eduar\Desktop\Programas De C#\tallerCP4\tallerCP4\obj\Debug\tallerCP4.frmInicio.resources
